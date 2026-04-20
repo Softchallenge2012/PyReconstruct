@@ -2,12 +2,13 @@
 
 <a id="pyreconstruct"></a>
 
-# PyReconstruct
+# AI-Reconstruct
 
-PyReconstruct is an actively maintained, extensible version of _Reconstruct_ written in Python in the lab of Kristen Harris at the University of Texas at Austin. Please check out [our paper](https://doi.org/10.1073/pnas.2505822122) introducing PyReconstruct and feel free to send us a message if you have any questions:
+AI-Reconstruct is an AI version of _Reconstruct_ written in Python, based on the PyReconstruct developed in the lab of Kristen Harris at the University of Texas at Austin. Please check out [our paper](https://doi.org/10.1073/pnas.2505822122) introducing PyReconstruct and feel free to send us a message if you have any questions:
 
 -   Michael Chirillo: michael.chirillo@uri.edu
 -   Julian Falco: julian.falco@utexas.edu
+-   Lucy Lu: llu@astate.edu
 
 <a id="documentation"></a>
 
